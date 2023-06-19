@@ -1,0 +1,40 @@
+.grantlocationmain{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.locationimg{
+    height: 50%;
+    width: 50%;
+}
+
+.locationimg img{
+    box-sizing: content-box;
+
+}
+
+.grantlocationmain h1{
+    color: antiquewhite;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.grantlocationmain h3{
+    color: azure;
+    font-size: large;
+    font-weight: 500;
+}
+
+.grantlocationmain button{
+    border: 2px solid whitesmoke;
+    margin-top: 10px;
+    background-color: aliceblue;
+    font-size: larger;
+    font-weight: 600;
+    color: black;
+    border-radius: 5px;
+
+}

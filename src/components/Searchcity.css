@@ -1,0 +1,38 @@
+.searchdiv {
+  display: flex;
+  flex-direction: row;
+  color: aliceblue;
+}
+
+.searchdiv input {
+  border-radius: 15px;
+  border: 1px solid white;
+  width: 40vw;
+  height: 40px;
+  color: black;
+}
+
+.searchdiv button {
+  font-size: larger;
+  font-weight: 600;
+  text-shadow: 1px 2px black;
+  margin-left: 3px;
+}
+
+.mainsearchdiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.mainsearchdiv h1{
+
+    font-size: x-large;
+    font-weight: 600;
+    color: aliceblue;
+    text-shadow: 3px 3px black;
+    
+
+}
