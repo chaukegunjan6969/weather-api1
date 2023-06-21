@@ -11,8 +11,8 @@ export const Navbar = () => {
    
     <div className='main'>
     <nav className='flex flex-auto gap-4 w-3/5 h-25 justify-around '>
-    <button  className='mainbutton' ><NavLink  to="/"  >Yourwheather</NavLink></button>
-    <button   className='mainbutton'><NavLink to="/searchwheather" >Searchwheather</NavLink></button>
+    <button  className='mainbutton' ><NavLink  to="/"  >YourWeather</NavLink></button>
+    <button   className='mainbutton'><NavLink to="/searchwheather" >SearchWeather</NavLink></button>
     </nav> 
 
     <Routes>
